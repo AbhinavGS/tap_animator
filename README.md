@@ -11,29 +11,43 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+A simple package to animate click action for any widget.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+Change animation duration as per requirements.
 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+### Installation
+```yaml
+dependencies:
+  tap_animator: ^1.0.0
+```
+
+
+```dart
+import 'package:tap_animator/tap_animator.dart';
+```
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
+Just wrap a widget you want to animate with TapAnimator widget!
 
 ```dart
-const like = 'sample';
+TapAnimator(
+  child: YourWidget(),
+),
 ```
 
-## Additional information
+## License
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+MIT
+
+## Author
+
+[AbhinavGS](https://github.com/abhinavGS)
+
+## Issues
+
+If you find any issues, please report them [here](https://github.com/AbhinavGS/tap_animator/issues)
