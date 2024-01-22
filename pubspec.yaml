@@ -1,7 +1,7 @@
 name: tap_animator
-description: "A new Flutter package project."
+description: "A simple package to animate click action for any widget."
 version: 0.0.1
-homepage:
+homepage: https://github.com/AbhinavGS/tap_animator
 
 environment:
   sdk: '>=3.2.5 <4.0.0'
@@ -12,8 +12,6 @@ dependencies:
     sdk: flutter
 
 dev_dependencies:
-  flutter_test:
-    sdk: flutter
   flutter_lints: ^2.0.0
 
 # For information on the generic Dart part of this file, see the
