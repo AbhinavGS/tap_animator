@@ -22,7 +22,7 @@ Change animation duration as per requirements.
 ### Installation
 ```yaml
 dependencies:
-  tap_animator: ^0.0.1
+  tap_animator: ^1.0.0
 ```
 
 

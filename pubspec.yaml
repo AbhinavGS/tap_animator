@@ -1,6 +1,6 @@
 name: tap_animator
 description: "A simple flutter package to animate click action for any widget. Just wrap it over any widget and see it in action."
-version: 0.0.2
+version: 1.0.0
 homepage: https://github.com/AbhinavGS/tap_animator
 
 environment:

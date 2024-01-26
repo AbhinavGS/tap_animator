@@ -1,3 +1,7 @@
+# 1.0.0
+
+Release stable version
+
 # 0.0.2
 
 Add example
