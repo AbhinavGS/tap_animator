@@ -36,6 +36,7 @@ Just wrap a widget you want to animate with TapAnimator widget!
 
 ```dart
 TapAnimator(
+  duration: const Duration(milliseconds: 100), // optional
   child: YourWidget(),
 ),
 ```
